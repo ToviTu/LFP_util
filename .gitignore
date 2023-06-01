@@ -1,2 +1,4 @@
-./LFP_util.egg-info
-./LFP_util/__pycache__
+/LFP_util.egg-info
+/LFP_util/__pycache__
+/.ipynb_checkpoints
+/Example.ipynb
